@@ -1,0 +1,38 @@
+<html>
+<head>
+  <link rel="stylesheet" href="dominatha.css"></head>
+<body>
+</head>
+<body>
+  <div class="header">iTT COMPANY</div>
+  <div class="menu">menu</div>
+  <div class="sidebar">SIDEBAR
+    <h1>ABOUT US</h1>
+    <p>We are iTT COMPANY</p>
+    <p>We are providing online services like requesting for different certificates(birth and death), at a low and affordable price</p>
+    <img src="pictures/dick.png" alt="Sample Image" style="width:100%; height:300px;">
+    <h2>OUR SERVICES</h2>
+    <p>We further provide other services as listed below</p>
+    <ul>
+      <li>Loans provision</li>
+      <li>Data-base teachings</li>
+      <li>Computer learning</li>
+      <li>Online marketing</li>
+    </ul>
+    <p></p>
+    <h5>YOU CAN CONSIDER THE VIDEO BELOW</h5>
+    <video width="100%" height="300px" controls>
+      <source src="movies/kinemaster/dick.mp4"> your browser does not support this file
+    </video>
+  </div>
+   <div class="content">SERVICES
+     <h4>
+         <li>Teaching</li>
+         <img src="pictures/screenshot/festo.png" alt="sample image" style="width:100%; height:150px;">
+     </h4>
+     <p>The image above shows some people being in</p>
+      <img src="pictures/screenshot/festo.png" alt="sample image" style="width:100%; height:150px;">
+   </div>
+  <div class="footer">YOU ARE MOST WELCOME</div>
+</body>
+</html>
